@@ -94,9 +94,4 @@ Insights derived from the model are used to guide future marketing strategies:
 - Identification of under or over-invested channels.
 - Recommendations for budget reallocation based on model outputs.
 
-## Running the Code
-Instructions on how to set up the environment, install dependencies, and execute the model scripts.
-
-## Contact
-For further inquiries or contributions to the project, please reach out to [Contact Information].
 
